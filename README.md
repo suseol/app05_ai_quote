@@ -1,6 +1,6 @@
 # App 05 | AI Quote Helper
 
-모바일프로그래밍 6주차 실습에서 사용하는 학생용 Flutter 프로젝트입니다.
+모바일프로그래밍 6주차 실습에서 사용하는 학생용 Flutter 프로젝트 `app05_ai_quote`입니다.
 
 이 저장소는 **Android 실습 기준**으로 구성되어 있으며, clone 후 `flutter pub get`을 실행하면 starter 앱을 바로 실행할 수 있습니다.
 
@@ -94,7 +94,7 @@ Checkpoint는 정답을 미리 보는 용도가 아니라 코드 오류나 진�
 
 ## 6. 주의사항
 
-- 이 저장소의 Flutter package name은 수업 자료와 맞추기 위해 `lab05_ai_quote`를 사용합니다.
+- 이 저장소의 GitHub repository 이름과 Flutter project/package 이름은 모두 `app05_ai_quote`로 통일합니다.
 - Android 인터넷 권한은 프로젝트에 포함되어 있습니다.
 - API 키를 GitHub, 소스 코드, 과제 제출 파일에 저장하지 마세요.
 - 수업이 끝나기 전에는 완성 solution을 이 공개 저장소에 제공하지 않습니다.
