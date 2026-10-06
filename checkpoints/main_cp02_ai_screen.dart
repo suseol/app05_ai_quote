@@ -4,7 +4,7 @@
 // [S02-① 제공 starter] 고정 영어 문장과 버튼이 있는 화면부터 시작한다.
 import 'package:flutter/material.dart';
 // [S02-②] 콘솔에서 사용한 같은 함수를 앱에서도 가져온다.
-import 'package:lab05_ai_quote/ai_service.dart';
+import 'package:app05_ai_quote/ai_service.dart';
 
 const sampleQuote =
     'Small steps every day can lead to meaningful progress.';
