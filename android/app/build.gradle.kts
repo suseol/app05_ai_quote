@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.lab05_ai_quote"
+    namespace = "com.example.app05_ai_quote"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
@@ -14,7 +14,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.example.lab05_ai_quote"
+        applicationId = "com.example.app05_ai_quote"
         minSdk = flutter.minSdkVersion
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode
